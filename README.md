@@ -9,3 +9,8 @@ Based on https://github.com/JayesonLS/ISA-Cards IsaTemplate
 
 
 It is also designed to have a 45-degree bevel at the connector. For JLCPCB, order with gold fingers enabled and a 45-degree bevel. Ready gerbers are available in output folder
+
+## Special thanks to [PCBWay](https://www.pcbway.com)!
+[<img src="https://github.com/user-attachments/assets/9d95cbb9-ce2d-4c56-a627-724283c579ba" width="400">](https://www.pcbway.com)
+
+Special thanks to PCBWay for sponsoring this project with additional PCBs! PCBWay is a well-known PCB prototyping and manufacturing service, providing high-quality boards and excellent customer support. I have worked with their boards in the past and can say that they are of great quality. For this project, I placed an order for PCBs on their platform without a problem, and as of the time of writing this, I am waiting for them to arrive. The sponsorship also included a free quick delivery option. If you’re looking for reliable PCB prototyping and manufacturing services, I highly recommend [checking them](https://www.pcbway.com).
